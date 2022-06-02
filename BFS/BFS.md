@@ -14,4 +14,6 @@ BFS(G, s):// Here, G is graph and s is the start node
     for all neighbors w of v in graph G:
       if w is not visited :
         Q.enQue(w)
+        // stores w in for further visiting its neighbors
+        mark w as visited
 ```
