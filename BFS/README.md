@@ -17,3 +17,8 @@ BFS(G, s):// Here, G is graph and s is the start node
         // stores w in for further visiting its neighbors
         mark w as visited
 ```
+### Code implementations:
+<ul>
+  <li><a href="https://github.com/Grogu22/DAA-code/blob/main/BFS/bfs.c">Using Adjacency List</a></li> 
+  <li>Using Adjacency Matrix</li>
+</ul>
