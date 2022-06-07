@@ -1,3 +1,3 @@
 ## DFS in Graphs
 ### Graph used : 
-![image](https://user-images.githubusercontent.com/83173038/172046015-b9006591-ff3a-4416-b2cd-5b6237ca7c11.png)
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/83173038/171701357-4d399d77-aced-4d28-afe3-c44ed915c226.png">
