@@ -35,4 +35,11 @@ function select(list, left, right, k) is
             left := pivotIndex + 1
 ```
 ### Code :
-<i><b>Note : </b>Here , we have used only the recursive quickselect algorithm<i>
+<a href = "https://github.com/Grogu22/DAA-code/blob/main/DAC/QuickSelect/median.c">Finding median in linear time</a>
+<br>
+In this code we have used Lomuto partitioning scheme
+<hr>
+<i><b>Note : </b>Here , we have used only the recursive quickselect algorithm</i>
+    <h3>Sources :</h3>
+    1. <a href = "https://en.wikipedia.org/wiki/Quickselect">Wikipedia</a>
+    2. <a href = "http://www.few.vu.nl/~tcs/ds/lecture9.pdf">Lecture Notes</a>
