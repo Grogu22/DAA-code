@@ -22,3 +22,5 @@ function bellmanFord(G, S)
 ```
 ### Graph :
 <img width="210" alt="image" src="https://user-images.githubusercontent.com/83173038/174434118-2f1726da-700d-4ece-9c01-d7fa44648de3.png">
+<h3>Time complexity :</h3>
+<i>O(VE)</i>
